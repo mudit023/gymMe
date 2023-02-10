@@ -10,3 +10,5 @@
 - AOS(Animation On Scroll)
 - PostCSS
 - React Swiper
+
+### Made by **[Mudit](https://twitter.com/muditwt)**
